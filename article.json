@@ -2,11 +2,11 @@
   "articles": [
     {
       "id": 20433,
-      "author": "Luk",
+      "author": "Palino",
       "dateCreated": "2022-12-19T13:37:21Z",
       "imageLink": "http://wt.kpi.fei.tuke.sk/uploads/JZGQNinrgefibyhi_872380.jpg",
       "lastUpdated": "2023-12-13T22:27:23Z",
-      "title": "dsssssdddddddddddddddddddddd",
+      "title": "Json file maka jak ma",
       "tags": ["blog"]
     },
     {
@@ -18,6 +18,114 @@
       "title": "skusenka",
       "tags": ["score_BD", "raz"]
     },
+    {
+      "id": 20446,
+      "author": "Anonymous",
+      "dateCreated": "2022-12-19T14:02:52Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T23:06:01Z",
+      "title": "Ukážkaaaaaaaaa",
+      "tags": ["score_BD"]
+    },
+    {
+      "id": 20447,
+      "author": "Pišta",
+      "dateCreated": "2022-12-19T14:03:29Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T17:35:31Z",
+      "title": "Vyskúšame si to",
+      "tags": ["score_BD"]
+    },
+    {
+      "id": 20462,
+      "author": "123",
+      "dateCreated": "2022-12-19T14:47:55Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T14:47:55Z",
+      "title": "123",
+      "tags": ["123"]
+    },
+    {
+      "id": 20467,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
+    },
+    {
+      "id": 20473,
+      "author": "ME",
+      "dateCreated": "2022-12-19T15:07:29Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T15:07:29Z",
+      "title": "HI",
+      "tags": []
+    },
+    {
+      "id": 20483,
+      "author": "hmmm",
+      "dateCreated": "2022-12-19T18:06:26Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:06:26Z",
+      "title": "neviem",
+      "tags": []
+    },
+    {
+      "id": 20486,
+      "author": "a",
+      "dateCreated": "2022-12-19T18:10:05Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:10:05Z",
+      "title": "aa",
+      "tags": []
+    },
+    {
+      "id": 20510,
+      "author": "ZALUPA",
+      "dateCreated": "2022-12-19T19:52:50Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T19:52:50Z",
+      "title": "FDSFDSFDS",
+      "tags": ["KAKAHA"]
+    },
+    {
+      "id": 20486,
+      "author": "a",
+      "dateCreated": "2022-12-19T18:10:05Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:10:05Z",
+      "title": "aa",
+      "tags": []
+    },
+    {
+      "id": 25286,
+      "author": "a",
+      "dateCreated": "2022-12-19T18:10:05Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:10:05Z",
+      "title": "aa",
+      "tags": []
+    },
+    {
+      "id": 52486,
+      "author": "a",
+      "dateCreated": "2022-12-19T18:10:05Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:10:05Z",
+      "title": "aa",
+      "tags": []
+    },
+    {
+      "id": 20479,
+      "author": "a",
+      "dateCreated": "2022-12-19T18:10:05Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T18:10:05Z",
+      "title": "aa",
+      "tags": []
+    }
   ],
   "meta": {
     "totalCount": 584,
