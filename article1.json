@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "id": 20433,
+      "id": 0,
       "author": "Palino",
       "dateCreated": "2022-12-19T13:37:21Z",
       "imageLink": "http://wt.kpi.fei.tuke.sk/uploads/JZGQNinrgefibyhi_872380.jpg",
@@ -10,7 +10,7 @@
       "tags": ["blog"]
     },
     {
-      "id": 20440,
+      "id": 1,
       "author": "Filip",
       "dateCreated": "2022-12-19T13:53:44Z",
       "imageLink": null,
@@ -19,7 +19,7 @@
       "tags": ["score_BD", "raz"]
     },
     {
-      "id": 20446,
+      "id": 2,
       "author": "Anonymous",
       "dateCreated": "2022-12-19T14:02:52Z",
       "imageLink": null,
@@ -28,7 +28,7 @@
       "tags": ["score_BD"]
     },
     {
-      "id": 20447,
+      "id": 3,
       "author": "Pišta",
       "dateCreated": "2022-12-19T14:03:29Z",
       "imageLink": null,
@@ -37,7 +37,7 @@
       "tags": ["score_BD"]
     },
     {
-      "id": 20462,
+      "id": 4,
       "author": "123",
       "dateCreated": "2022-12-19T14:47:55Z",
       "imageLink": null,
@@ -46,7 +46,7 @@
       "tags": ["123"]
     },
     {
-      "id": 20467,
+      "id": 5,
       "author": "Ibrahim Majga",
       "dateCreated": "2022-12-19T14:53:43Z",
       "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
@@ -55,40 +55,40 @@
       "tags": ["žiletka"]
     },
     {
-      "id": 20473,
-      "author": "ME",
-      "dateCreated": "2022-12-19T15:07:29Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T15:07:29Z",
-      "title": "HI",
-      "tags": []
+      "id": 6,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
     },
     {
-      "id": 20483,
-      "author": "hmmm",
-      "dateCreated": "2022-12-19T18:06:26Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T18:06:26Z",
-      "title": "neviem",
-      "tags": []
+      "id": 7,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
     },
     {
-      "id": 20486,
-      "author": "a",
-      "dateCreated": "2022-12-19T18:10:05Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T18:10:05Z",
-      "title": "aa",
-      "tags": []
+      "id": 8,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
     },
     {
-      "id": 20510,
-      "author": "ZALUPA",
-      "dateCreated": "2022-12-19T19:52:50Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T19:52:50Z",
-      "title": "FDSFDSFDS",
-      "tags": ["KAKAHA"]
+      "id": 9,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
     }
   ],
   "meta": {
