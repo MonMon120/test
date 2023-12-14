@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "id": 20433,
+      "author": "Luk",
+      "dateCreated": "2022-12-19T13:37:21Z",
+      "imageLink": "http://wt.kpi.fei.tuke.sk/uploads/JZGQNinrgefibyhi_872380.jpg",
+      "lastUpdated": "2023-12-13T22:27:23Z",
+      "title": "dsssssdddddddddddddddddddddd",
+      "tags": ["blog"]
+    },
+    {
+      "id": 20440,
+      "author": "Filip",
+      "dateCreated": "2022-12-19T13:53:44Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T22:33:28Z",
+      "title": "skusenka",
+      "tags": ["score_BD", "raz"]
+    },
+  ],
+  "meta": {
+    "totalCount": 584,
+    "max": 10,
+    "offset": 0
+  }
+}
