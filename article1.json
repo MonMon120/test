@@ -1,95 +1,205 @@
 {
   "articles": [
     {
-      "id": 0,
-      "author": "Palino",
-      "dateCreated": "2022-12-19T13:37:21Z",
-      "imageLink": "http://wt.kpi.fei.tuke.sk/uploads/JZGQNinrgefibyhi_872380.jpg",
-      "lastUpdated": "2023-12-13T22:27:23Z",
-      "title": "Json file maka jak ma",
-      "tags": ["blog"]
-    },
-    {
-      "id": 1,
-      "author": "Filip",
-      "dateCreated": "2022-12-19T13:53:44Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T22:33:28Z",
-      "title": "skusenka",
-      "tags": ["score_BD", "raz"]
-    },
-    {
-      "id": 2,
-      "author": "Anonymous",
-      "dateCreated": "2022-12-19T14:02:52Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T23:06:01Z",
-      "title": "Ukážkaaaaaaaaa",
-      "tags": ["score_BD"]
-    },
-    {
-      "id": 3,
-      "author": "Pišta",
-      "dateCreated": "2022-12-19T14:03:29Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T17:35:31Z",
-      "title": "Vyskúšame si to",
-      "tags": ["score_BD"]
-    },
-    {
-      "id": 4,
-      "author": "123",
-      "dateCreated": "2022-12-19T14:47:55Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T14:47:55Z",
-      "title": "123",
-      "tags": ["123"]
-    },
-    {
-      "id": 5,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    },
-    {
-      "id": 6,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    },
-    {
-      "id": 7,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    },
-    {
-      "id": 8,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    },
-    {
-      "id": 9,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    }
+    "id": 20,
+    "title": "The Future of Work",
+    "description": "Remote work technologies redefine the concept of the office, enabling seamless collaboration from anywhere in the world.",
+    "author_name": "James Miller",
+    "publish_date": "25 Sep 2021",
+    "img_url": "https://monmon120.github.io/test/fig/one.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Advancements in Medicine",
+    "description": "Cutting-edge medical research brings forth promising breakthroughs in cancer treatment, offering hope to patients worldwide.",
+    "author_name": "Sophia Turner",
+    "publish_date": "02 Apr 2021",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Evolution of Smart Homes",
+    "description": "Smart home technologies driven by artificial intelligence create more intuitive and responsive living spaces.",
+    "author_name": "Nathan Robinson",
+    "publish_date": "09 Dec 2021",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Space Tourism Takes Flight",
+    "description": "Commercial space travel becomes a reality as private companies offer trips beyond Earth's atmosphere to adventurous tourists.",
+    "author_name": "Emma White",
+    "publish_date": "14 Mar 2021",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Breaking Barriers in Robotics",
+    "description": "Advancements in robotics and artificial intelligence result in machines that can perform tasks with remarkable precision and dexterity.",
+    "author_name": "Ethan Garcia",
+    "publish_date": "21 Aug 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "breaking",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Sustainable Fashion: Eco-Friendly Trends in the Apparel Industry",
+    "description": "The fashion industry embraces sustainable practices, with eco-friendly materials and ethical production methods gaining popularity.",
+    "author_name": "Madison Hill",
+    "publish_date": "03 May 2020",
+    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Renewable Energy Revolution: Wind Farms Powering the Future",
+    "description": "Wind energy takes center stage as massive wind farms contribute significantly to the global push for renewable energy.",
+    "author_name": "Christopher Lee",
+    "publish_date": "12 Nov 2020",
+    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Exploring the Cosmos: Hubble Telescope's Latest Discoveries",
+    "description": "The Hubble Space Telescope continues to unveil breathtaking images and groundbreaking discoveries from the depths of space.",
+    "author_name": "Victoria Brown",
+    "publish_date": "28 Mar 2020",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Innovations in 3D Printing: Transforming Manufacturing Processes",
+    "description": "3D printing technology evolves, offering new possibilities for manufacturing and customized product creation.",
+    "author_name": "William Turner",
+    "publish_date": "06 Sep 2020",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Culinary Robotics: AI-Powered Chefs in Modern Kitchens",
+    "description": "Artificial intelligence enters the culinary world, with robots assisting in food preparation and cooking in modern kitchens.",
+    "author_name": "Lily Smith",
+    "publish_date": "19 Jan 2020",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+      "id": 30,
+      "title": "BMW Unveils Its Vision: The Ultimate Driving Experience",
+      "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+      "author_name": "Joshua Connors",
+      "publish_date": "28 Jun 2023",
+      "img_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg",
+      "img_alt": "long road",
+      "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Luxury Redefined: The Latest from Ferrari",
+    "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance.",
+    "author_name": "Sophie Anderson",
+    "publish_date": "15 Jan 2023",
+    "img_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg",
+    "img_alt": "coffee cup",
+    "avatar_url": "https://monmon120.github.io/test/fig/one.jpg"
+  },
+  {
+    "id": 32,
+    "title": "The Next Frontier: SpaceX's",
+    "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration.",
+    "author_name": "David Thompson",
+    "publish_date": "03 Aug 2023",
+    "img_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
+    "img_alt": "tangerines",
+    "avatar_url": "https://monmon120.github.io/test/fig/two.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Innovation in Tech: Apple's Latest Gadget",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry.",
+    "author_name": "Emily Rodriguez",
+    "publish_date": "09 Apr 2023",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "apple tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Exploring the Ocean's Depths",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.",
+    "author_name": "Michael Turner",
+    "publish_date": "22 Nov 2022",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
+    "img_alt": "ocean",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Revolutionizing Renewable Energy",
+    "description": "Cities around the world embrace solar power solutions, aiming for a greener and more sustainable future.",
+    "author_name": "Olivia Carter",
+    "publish_date": "07 Mar 2022",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "solar-power",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 36,
+    "title": "A Glimpse into Virtual Reality",
+    "description": "Virtual reality gaming experiences reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Benjamin Walker",
+    "publish_date": "14 Sep 2022",
+    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 37,
+    "title": "The Rise of Electric Cars",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry.",
+    "author_name": "Isabella Martinez",
+    "publish_date": "30 May 2022",
+    "img_url": "https://monmon120.github.io/test/fig/seven.jpg",
+    "img_alt": "electric car",
+    "avatar_url": "https://monmon120.github.io/test/fig/three.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Health Tech Breakthroughs",
+    "description": "Wearable devices play a pivotal role in personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Daniel Harris",
+    "publish_date": "18 Feb 2022",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "health tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Artificial Intelligence in Finance",
+    "description": "AI applications reshape financial services, enhancing efficiency and providing personalized solutions to consumers.",
+    "author_name": "Ava Thompson",
+    "publish_date": "11 Jul 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  }
   ],
   "meta": {
     "totalCount": 584,
