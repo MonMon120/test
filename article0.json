@@ -9,52 +9,207 @@
       "img_url": "",
       "img_alt": "",
       "avatar_url": "",
-    },
-    {
-      "id": 1,
-      "author": "Filip",
-      "dateCreated": "2022-12-19T13:53:44Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T22:33:28Z",
-      "title": "skusenka",
-      "tags": ["score_BD", "raz"]
-    },
-    {
-      "id": 2,
-      "author": "Anonymous",
-      "dateCreated": "2022-12-19T14:02:52Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T23:06:01Z",
-      "title": "Ukážkaaaaaaaaa",
-      "tags": ["score_BD"]
-    },
-    {
-      "id": 3,
-      "author": "Pišta",
-      "dateCreated": "2022-12-19T14:03:29Z",
-      "imageLink": null,
-      "lastUpdated": "2023-12-13T17:35:31Z",
-      "title": "Vyskúšame si to",
-      "tags": ["score_BD"]
-    },
-    {
-      "id": 4,
-      "author": "123",
-      "dateCreated": "2022-12-19T14:47:55Z",
-      "imageLink": null,
-      "lastUpdated": "2022-12-19T14:47:55Z",
-      "title": "123",
-      "tags": ["123"]
-    },
-    {
-      "id": 5,
-      "author": "Ibrahim Majga",
-      "dateCreated": "2022-12-19T14:53:43Z",
-      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
-      "lastUpdated": "2022-12-19T14:53:43Z",
-      "title": "Ovce",
-      "tags": ["žiletka"]
-    }
+  },
+  {
+    "id": 1,
+    "title": "Luxury Redefined: The Latest from Ferrari",
+    "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance.",
+    "author_name": "Sophie Anderson",
+    "publish_date": "15 Jan 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 2,
+    "title": "The Next Frontier: SpaceX's Bold Mission to Mars",
+    "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration.",
+    "author_name": "David Thompson",
+    "publish_date": "03 Aug 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 3,
+    "title": "Innovation in Tech: Apple's Latest Gadgets Revealed",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry.",
+    "author_name": "Emily Rodriguez",
+    "publish_date": "09 Apr 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Ocean's Depths: Submersible Drones Take the Lead",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.",
+    "author_name": "Michael Turner",
+    "publish_date": "22 Nov 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 5,
+    "title": "Revolutionizing Renewable Energy: Solar-Powered Cities on the Horizon",
+    "description": "Cities around the world embrace solar power solutions, aiming for a greener and more sustainable future.",
+    "author_name": "Olivia Carter",
+    "publish_date": "07 Mar 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 6,
+    "title": "A Glimpse into Virtual Reality: The Next Frontier in Gaming",
+    "description": "Virtual reality gaming experiences reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Benjamin Walker",
+    "publish_date": "14 Sep 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 7,
+    "title": "The Rise of Electric Cars: Tesla's Impact on the Automotive Industry",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry.",
+    "author_name": "Isabella Martinez",
+    "publish_date": "30 May 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 8,
+    "title": "Health Tech Breakthroughs: Wearables Transforming Personal Wellness",
+    "description": "Wearable devices play a pivotal role in personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Daniel Harris",
+    "publish_date": "18 Feb 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence in Finance: Revolutionizing the Banking Sector",
+    "description": "AI applications reshape financial services, enhancing efficiency and providing personalized solutions to consumers.",
+    "author_name": "Ava Thompson",
+    "publish_date": "11 Jul 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 10,
+    "title": "The Future of Work: Remote Collaboration Tools Redefine the Office",
+    "description": "Remote work technologies redefine the concept of the office, enabling seamless collaboration from anywhere in the world.",
+    "author_name": "James Miller",
+    "publish_date": "25 Sep 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 11,
+    "title": "Advancements in Medicine: Breakthroughs in Cancer Treatment",
+    "description": "Cutting-edge medical research brings forth promising breakthroughs in cancer treatment, offering hope to patients worldwide.",
+    "author_name": "Sophia Turner",
+    "publish_date": "02 Apr 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 12,
+    "title": "The Evolution of Smart Homes: AI-Powered Living Spaces",
+    "description": "Smart home technologies driven by artificial intelligence create more intuitive and responsive living spaces.",
+    "author_name": "Nathan Robinson",
+    "publish_date": "09 Dec 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 13,
+    "title": "Space Tourism Takes Flight: Commercial Trips Beyond Earth's Atmosphere",
+    "description": "Commercial space travel becomes a reality as private companies offer trips beyond Earth's atmosphere to adventurous tourists.",
+    "author_name": "Emma White",
+    "publish_date": "14 Mar 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 14,
+    "title": "Breaking Barriers in Robotics: AI-Powered Machines Mimic Human Abilities",
+    "description": "Advancements in robotics and artificial intelligence result in machines that can perform tasks with remarkable precision and dexterity.",
+    "author_name": "Ethan Garcia",
+    "publish_date": "21 Aug 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 15,
+    "title": "Sustainable Fashion: Eco-Friendly Trends in the Apparel Industry",
+    "description": "The fashion industry embraces sustainable practices, with eco-friendly materials and ethical production methods gaining popularity.",
+    "author_name": "Madison Hill",
+    "publish_date": "03 May 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 16,
+    "title": "Renewable Energy Revolution: Wind Farms Powering the Future",
+    "description": "Wind energy takes center stage as massive wind farms contribute significantly to the global push for renewable energy.",
+    "author_name": "Christopher Lee",
+    "publish_date": "12 Nov 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 17,
+    "title": "Exploring the Cosmos: Hubble Telescope's Latest Discoveries",
+    "description": "The Hubble Space Telescope continues to unveil breathtaking images and groundbreaking discoveries from the depths of space.",
+    "author_name": "Victoria Brown",
+    "publish_date": "28 Mar 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 18,
+    "title": "Innovations in 3D Printing: Transforming Manufacturing Processes",
+    "description": "3D printing technology evolves, offering new possibilities for manufacturing and customized product creation.",
+    "author_name": "William Turner",
+    "publish_date": "06 Sep 2021",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 19,
+    "title": "Culinary Robotics: AI-Powered Chefs in Modern Kitchens",
+    "description": "Artificial intelligence enters the culinary world, with robots assisting in food preparation and cooking in modern kitchens.",
+    "author_name": "Lily Smith",
+    "publish_date": "19 Jan 2020",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  },
+  {
+    "id": 20,
+    "title": "Revolutionizing Transportation: Hyperloop's High-Speed Vision",
+    "description": "Hyperloop technology aims to revolutionize transportation with high-speed pods, offering a glimpse into the future of travel.",
+    "author_name": "Jackson Miller",
+    "publish_date": "04 Jul 2022",
+    "img_url": "",
+    "img_alt": "",
+    "avatar_url": ""
+  }
   ],
   "meta": {
     "totalCount": 584,
