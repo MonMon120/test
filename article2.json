@@ -22,27 +22,27 @@
   },
   {
     "id": 42,
-    "title": "Sustainable Fashion: Eco-Friendly Trends in the Apparel Industry",
+    "title": "Sustainable Fashion",
     "description": "The fashion industry embraces sustainable practices, with eco-friendly materials and ethical production methods gaining popularity.",
     "author_name": "Madison Hill",
     "publish_date": "03 May 2020",
-    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
     "img_alt": "glimpse",
     "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 43,
-    "title": "Renewable Energy Revolution: Wind Farms Powering the Future",
+    "title": "Renewable Energy Revolution",
     "description": "Wind energy takes center stage as massive wind farms contribute significantly to the global push for renewable energy.",
     "author_name": "Christopher Lee",
     "publish_date": "12 Nov 2020",
-    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/one.jpg",
     "img_alt": "glimpse",
     "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 44,
-    "title": "Exploring the Cosmos: Hubble Telescope's Latest Discoveries",
+    "title": "Exploring the Cosmos",
     "description": "The Hubble Space Telescope continues to unveil breathtaking images and groundbreaking discoveries from the depths of space.",
     "author_name": "Victoria Brown",
     "publish_date": "28 Mar 2020",
