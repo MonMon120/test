@@ -6,9 +6,9 @@
       "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
       "author_name": "Joshua Connors",
       "publish_date": "28 Jun 2020",
-      "img_url": "",
-      "img_alt": "",
-      "avatar_url": "",
+      "img_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg",
+      "img_alt": "long road",
+      "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance.",
     "author_name": "Sophie Anderson",
     "publish_date": "15 Jan 2021",
-    "img_url": "",
-    "img_alt": "",
+    "img_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg",
+    "img_alt": "coffee cup",
     "avatar_url": ""
   },
   {
@@ -26,8 +26,8 @@
     "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration.",
     "author_name": "David Thompson",
     "publish_date": "03 Aug 2022",
-    "img_url": "",
-    "img_alt": "",
+    "img_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
+    "img_alt": "tangerines",
     "avatar_url": ""
   },
   {
@@ -48,7 +48,7 @@
     "publish_date": "22 Nov 2020",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
   },
   {
     "id": 5,
@@ -68,7 +68,7 @@
     "publish_date": "14 Sep 2021",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 7,
@@ -98,7 +98,7 @@
     "publish_date": "11 Jul 2021",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 10,
@@ -128,7 +128,7 @@
     "publish_date": "09 Dec 2021",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
   },
   {
     "id": 13,
@@ -148,7 +148,7 @@
     "publish_date": "21 Aug 2022",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
   },
   {
     "id": 15,
@@ -168,7 +168,7 @@
     "publish_date": "12 Nov 2020",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 17,
@@ -178,7 +178,7 @@
     "publish_date": "28 Mar 2022",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
   },
   {
     "id": 18,
@@ -208,7 +208,7 @@
     "publish_date": "04 Jul 2022",
     "img_url": "",
     "img_alt": "",
-    "avatar_url": ""
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   }
   ],
   "meta": {
