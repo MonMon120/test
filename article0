@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "BMW Unveils Its Vision: The Ultimate Driving Experience Now in a Smartphone",
+      "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+      "author_name": "Joshua Connors",
+      "publish_date": "28 Jun 2020",
+      "img_url": "",
+      "img_alt": "",
+      "avatar_url": "",
+    },
+    {
+      "id": 1,
+      "author": "Filip",
+      "dateCreated": "2022-12-19T13:53:44Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T22:33:28Z",
+      "title": "skusenka",
+      "tags": ["score_BD", "raz"]
+    },
+    {
+      "id": 2,
+      "author": "Anonymous",
+      "dateCreated": "2022-12-19T14:02:52Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T23:06:01Z",
+      "title": "Ukážkaaaaaaaaa",
+      "tags": ["score_BD"]
+    },
+    {
+      "id": 3,
+      "author": "Pišta",
+      "dateCreated": "2022-12-19T14:03:29Z",
+      "imageLink": null,
+      "lastUpdated": "2023-12-13T17:35:31Z",
+      "title": "Vyskúšame si to",
+      "tags": ["score_BD"]
+    },
+    {
+      "id": 4,
+      "author": "123",
+      "dateCreated": "2022-12-19T14:47:55Z",
+      "imageLink": null,
+      "lastUpdated": "2022-12-19T14:47:55Z",
+      "title": "123",
+      "tags": ["123"]
+    },
+    {
+      "id": 5,
+      "author": "Ibrahim Majga",
+      "dateCreated": "2022-12-19T14:53:43Z",
+      "imageLink": "https://zvery.rodinka.sk/uploads/pics/i-ako_oslovit_ovcu.jpg",
+      "lastUpdated": "2022-12-19T14:53:43Z",
+      "title": "Ovce",
+      "tags": ["žiletka"]
+    }
+  ],
+  "meta": {
+    "totalCount": 584,
+    "max": 10,
+    "offset": 0
+  }
+}
