@@ -2,13 +2,14 @@
   "articles": [
     {
       "id": 0,
-      "author": "Palino",
-      "dateCreated": "2022-12-19T13:37:21Z",
-      "imageLink": "http://wt.kpi.fei.tuke.sk/uploads/JZGQNinrgefibyhi_872380.jpg",
-      "lastUpdated": "2023-12-13T22:27:23Z",
-      "title": "Json file maka jak ma",
-      "tags": ["blog"]
-    }
+      "title": "BMW Unveils Its Vision: The Ultimate Driving Experience Now in a Smartphone",
+      "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+      "author_name": "Joshua Connors",
+      "publish_date": "28 Jun 2020",
+      "img_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg",
+      "img_alt": "long road",
+      "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
   ],
   "meta": {
     "totalCount": 584,
