@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": 0,
-      "title": "BMW Unveils Its Vision: The Ultimate Driving Experience",
+      "title": "BMW Unveils Its Vision",
       "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
       "author_name": "Joshua Connors",
       "publish_date": "28 Jun 2023",
@@ -12,7 +12,7 @@
   },
   {
     "id": 1,
-    "title": "Luxury Redefined: The Latest from Ferrari",
+    "title": "Luxury Redefined",
     "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance.",
     "author_name": "Sophie Anderson",
     "publish_date": "15 Jan 2023",
@@ -32,7 +32,7 @@
   },
   {
     "id": 3,
-    "title": "Innovation in Tech: Apple's Latest Gadget",
+    "title": "Innovation in Tech",
     "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry.",
     "author_name": "Emily Rodriguez",
     "publish_date": "09 Apr 2023",
@@ -66,7 +66,7 @@
     "description": "Virtual reality gaming experiences reach new heights, offering immersive worlds and unprecedented realism.",
     "author_name": "Benjamin Walker",
     "publish_date": "14 Sep 2022",
-    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
     "img_alt": "glimpse",
     "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
@@ -76,7 +76,7 @@
     "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry.",
     "author_name": "Isabella Martinez",
     "publish_date": "30 May 2022",
-    "img_url": "https://monmon120.github.io/test/fig/seven.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
     "img_alt": "electric car",
     "avatar_url": "https://monmon120.github.io/test/fig/three.jpg"
   },
@@ -92,7 +92,7 @@
   },
   {
     "id": 9,
-    "title": "Artificial Intelligence in Finance",
+    "title": "Artificial Intelligence",
     "description": "AI applications reshape financial services, enhancing efficiency and providing personalized solutions to consumers.",
     "author_name": "Ava Thompson",
     "publish_date": "11 Jul 2021",
@@ -152,17 +152,17 @@
   },
   {
     "id": 15,
-    "title": "Sustainable Fashion: Eco-Friendly Trends in the Apparel Industry",
+    "title": "Sustainable Fashion",
     "description": "The fashion industry embraces sustainable practices, with eco-friendly materials and ethical production methods gaining popularity.",
     "author_name": "Madison Hill",
     "publish_date": "03 May 2020",
-    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/seven.jpg",
     "img_alt": "glimpse",
     "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
     "id": 16,
-    "title": "Renewable Energy Revolution: Wind Farms Powering the Future",
+    "title": "Renewable Energy Revolution",
     "description": "Wind energy takes center stage as massive wind farms contribute significantly to the global push for renewable energy.",
     "author_name": "Christopher Lee",
     "publish_date": "12 Nov 2020",
@@ -172,17 +172,17 @@
   },
   {
     "id": 17,
-    "title": "Exploring the Cosmos: Hubble Telescope's Latest Discoveries",
+    "title": "Exploring the Cosmos",
     "description": "The Hubble Space Telescope continues to unveil breathtaking images and groundbreaking discoveries from the depths of space.",
     "author_name": "Victoria Brown",
     "publish_date": "28 Mar 2020",
-    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
     "img_alt": "future of work",
     "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
   },
   {
     "id": 18,
-    "title": "Innovations in 3D Printing: Transforming Manufacturing Processes",
+    "title": "Innovations in 3D",
     "description": "3D printing technology evolves, offering new possibilities for manufacturing and customized product creation.",
     "author_name": "William Turner",
     "publish_date": "06 Sep 2020",
@@ -192,7 +192,7 @@
   },
   {
     "id": 19,
-    "title": "Culinary Robotics: AI-Powered Chefs in Modern Kitchens",
+    "title": "Culinary Robotics",
     "description": "Artificial intelligence enters the culinary world, with robots assisting in food preparation and cooking in modern kitchens.",
     "author_name": "Lily Smith",
     "publish_date": "19 Jan 2020",
