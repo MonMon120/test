@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "id": 0,
+      "id": 00,
       "title": "BMW Unveils Its Vision",
       "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
       "author_name": "Joshua Connors",
@@ -11,7 +11,7 @@
       "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
-    "id": 1,
+    "id": 01,
     "title": "Luxury Redefined elegant",
     "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance. Ambitious foray into the world of smartphones, very good manned mission.",
     "author_name": "Sophie Anderson",
@@ -21,7 +21,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/one.jpg"
   },
   {
-    "id": 2,
+    "id": 02,
     "title": "The Next Frontier: SpaceX's",
     "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration. Bring forth a new era of exploration and expirience",
     "author_name": "David Thompson",
@@ -31,7 +31,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/two.jpg"
   },
   {
-    "id": 3,
+    "id": 03,
     "title": "Innovation in Tech aswell",
     "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
     "author_name": "Emily Rodriguez",
@@ -41,7 +41,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
   },
   {
-    "id": 4,
+    "id": 04,
     "title": "Exploring the Ocean's Depths",
     "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging.",
     "author_name": "Michael Turner",
@@ -51,7 +51,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
   },
   {
-    "id": 5,
+    "id": 05,
     "title": "Revolutionizing Renewable",
     "description": "Cities around the world embrace solar power solutions, aiming for a greener and more sustainable future. Pivotal role in personal health monitoring, ushering great stuff.",
     "author_name": "Olivia Carter",
@@ -61,7 +61,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
   },
   {
-    "id": 6,
+    "id": 06,
     "title": "A Glimpse into Virtual Reality",
     "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
     "author_name": "Benjamin Walker",
@@ -71,7 +71,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
   },
   {
-    "id": 7,
+    "id": 07,
     "title": "The Rise of Electric Cars",
     "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
     "author_name": "Isabella Martinez",
@@ -81,7 +81,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/three.jpg"
   },
   {
-    "id": 8,
+    "id": 08,
     "title": "Health Tech Breakthroughs",
     "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
     "author_name": "Daniel Harris",
@@ -91,7 +91,7 @@
     "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
   },
   {
-    "id": 9,
+    "id": 09,
     "title": "Artificial Intelligence",
     "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
     "author_name": "Ava Thompson",
