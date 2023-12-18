@@ -1,0 +1,481 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "BMW Unveils Its Vision",
+      "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+      "author_name": "Joshua Connors",
+      "publish_date": "28 Jun 2023",
+      "img_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg",
+      "img_alt": "long road",
+      "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
+      "article_title": "BMW Unveils Its Vision: The Ultimate Driving Experience Now in a Smartphone",
+      "content": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones. In a highly anticipated event held at their headquarters in Munich, the company unveiled the BMW DrivePhone, a revolutionary device that promises to redefine the smartphone experience. The BMW DrivePhone, which combines cutting-edge technology with the brand's legendary expertise in automotive design and engineering, aims to bring the ultimate driving experience to the palm of your hand. It's not just a smartphone; it's a statement of style, luxury, and innovation.",
+      "sub_title": "Design Meets Innovation",
+      "sub_content": "The DrivePhone's design is a testament to BMW's commitment to excellence. It features a sleek, aerodynamic body with a curvaceous aluminum frame that pays homage to the brand's iconic kidney grille. The device boasts a luxurious leather back panel, further emphasizing BMW's dedication to craftsmanship."
+  },
+  {
+    "id": 1,
+    "title": "Luxury Redefined elegant",
+    "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance. Ambitious foray into the world of smartphones, very good manned mission.",
+    "author_name": "Sophie Anderson",
+    "publish_date": "15 Jan 2023",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "coffee cup",
+    "avatar_url": "https://monmon120.github.io/test/fig/one.jpg",
+    "article_title": "Ferrari unveils its latest masterpiece, combining cutting-edge technology",
+    "content": "In yet another groundbreaking move that leaves the tech world buzzing with excitement, Tesla has announced its latest innovation - the Autonomous Coffee Cup. In a press event held at their California headquarters, Tesla showcased this unique coffee cup that is set to redefine the way we enjoy our daily caffeine fix. The Autonomous Coffee Cup, designed with Tesla's signature sleek and futuristic aesthetic, looks like something straight out of a science fiction movie. But this innovation isn't just about the cup's design; it's about the cutting-edge technology packed within.",
+    "sub_title": "The Autonomous Coffee Cup",
+    "sub_content": "Imagine this scenario: you're running late for work, and the morning rush has left you with no time to prepare your daily cup of joe. That's where the Tesla Autonomous Coffee Cup comes to the rescue. It's equipped with a mini coffee-making machine, designed to brew your favorite blend of coffee"
+  },
+  {
+    "id": 2,
+    "title": "The Next Frontier: SpaceX's",
+    "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration. Bring forth a new era of exploration and expirience",
+    "author_name": "David Thompson",
+    "publish_date": "03 Aug 2023",
+    "img_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
+    "img_alt": "tangerines",
+    "avatar_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "article_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "sub_title": "Sed ut perspiciatis unde omnis iste natus",
+    "sub_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui"
+  },
+  {
+    "id": 3,
+    "title": "Innovation in Tech aswell",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Emily Rodriguez",
+    "publish_date": "09 Apr 2023",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "apple tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    
+    "article_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "sub_title": "Sed ut perspiciatis unde omnis iste natus",
+    "sub_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui"
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Ocean's Depths",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging.",
+    "author_name": "Michael Turner",
+    "publish_date": "22 Nov 2022",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
+    "img_alt": "ocean",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg",
+    
+    "article_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "sub_title": "Sed ut perspiciatis unde omnis iste natus",
+    "sub_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui"
+  },
+  {
+    "id": 5,
+    "title": "Revolutionizing Renewable",
+    "description": "Cities around the world embrace solar power solutions, aiming for a greener and more sustainable future. Pivotal role in personal health monitoring, ushering great stuff.",
+    "author_name": "Olivia Carter",
+    "publish_date": "07 Mar 2022",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "solar-power",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 6,
+    "title": "A Glimpse into Virtual Reality",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Benjamin Walker",
+    "publish_date": "14 Sep 2022",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Rise of Electric Cars",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Isabella Martinez",
+    "publish_date": "30 May 2022",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
+    "img_alt": "electric car",
+    "avatar_url": "https://monmon120.github.io/test/fig/three.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Health Tech Breakthroughs",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Daniel Harris",
+    "publish_date": "18 Feb 2022",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "health tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Ava Thompson",
+    "publish_date": "11 Jul 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Future of Work now",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "James Miller",
+    "publish_date": "25 Sep 2021",
+    "img_url": "https://monmon120.github.io/test/fig/one.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Advancements in Medicine yes",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Sophia Turner",
+    "publish_date": "02 Apr 2021",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Evolution of Smart Homes",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Nathan Robinson",
+    "publish_date": "09 Dec 2021",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Space Tourism Takes Flight",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Emma White",
+    "publish_date": "14 Mar 2021",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Breaking Barriers in Robotics",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Ethan Garcia",
+    "publish_date": "21 Aug 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "breaking",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Sustainable Fashion 80's",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Madison Hill",
+    "publish_date": "03 May 2020",
+    "img_url": "https://monmon120.github.io/test/fig/seven.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Renewable Energy Revolution",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Christopher Lee",
+    "publish_date": "12 Nov 2020",
+    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Exploring the Cosmos and..",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Victoria Brown",
+    "publish_date": "28 Mar 2020",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Innovations in 3D and more",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "William Turner",
+    "publish_date": "06 Sep 2020",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Culinary Robotics cook good",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Lily Smith",
+    "publish_date": "19 Jan 2020",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Future of Work now",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "James Miller",
+    "publish_date": "25 Sep 2021",
+    "img_url": "https://monmon120.github.io/test/fig/one.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Advancements in Medicine yes",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Sophia Turner",
+    "publish_date": "02 Apr 2021",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Evolution of Smart Homes",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Nathan Robinson",
+    "publish_date": "09 Dec 2021",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Space Tourism Takes Flight",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Emma White",
+    "publish_date": "14 Mar 2021",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Breaking Barriers in Robotics",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Ethan Garcia",
+    "publish_date": "21 Aug 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "breaking",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Sustainable Fashion 80's",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Madison Hill",
+    "publish_date": "03 May 2020",
+    "img_url": "https://monmon120.github.io/test/fig/seven.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Renewable Energy Revolution",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Christopher Lee",
+    "publish_date": "12 Nov 2020",
+    "img_url": "https://monmon120.github.io/test/fig/six.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Exploring the Cosmos and..",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Victoria Brown",
+    "publish_date": "28 Mar 2020",
+    "img_url": "https://monmon120.github.io/test/fig/two.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Innovations in 3D and more",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "William Turner",
+    "publish_date": "06 Sep 2020",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Culinary Robotics cook good",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Lily Smith",
+    "publish_date": "19 Jan 2020",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  },
+  {
+      "id": 30,
+      "title": "BMW Unveils Its Vision",
+      "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+      "author_name": "Joshua Connors",
+      "publish_date": "28 Jun 2023",
+      "img_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg",
+      "img_alt": "long road",
+      "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Luxury Redefined elegant",
+    "description": "Ferrari unveils its latest masterpiece, combining cutting-edge technology with unmatched elegance. Ambitious foray into the world of smartphones, very good manned mission.",
+    "author_name": "Sophie Anderson",
+    "publish_date": "15 Jan 2023",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "coffee cup",
+    "avatar_url": "https://monmon120.github.io/test/fig/one.jpg"
+  },
+  {
+    "id": 32,
+    "title": "The Next Frontier: SpaceX's",
+    "description": "Elon Musk's SpaceX announces groundbreaking plans for a manned mission to Mars, marking a new era in space exploration. Bring forth a new era of exploration and expirience",
+    "author_name": "David Thompson",
+    "publish_date": "03 Aug 2023",
+    "img_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg",
+    "img_alt": "tangerines",
+    "avatar_url": "https://monmon120.github.io/test/fig/two.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Innovation in Tech aswell",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Emily Rodriguez",
+    "publish_date": "09 Apr 2023",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "apple tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Exploring the Ocean's Depths",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging.",
+    "author_name": "Michael Turner",
+    "publish_date": "22 Nov 2022",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
+    "img_alt": "ocean",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Revolutionizing Renewable",
+    "description": "Cities around the world embrace solar power solutions, aiming for a greener and more sustainable future. Pivotal role in personal health monitoring, ushering great stuff.",
+    "author_name": "Olivia Carter",
+    "publish_date": "07 Mar 2022",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "solar-power",
+    "avatar_url": "https://monmon120.github.io/test/fig/seven.jpg"
+  },
+  {
+    "id": 36,
+    "title": "A Glimpse into Virtual Reality",
+    "description": "Apple introduces a range of revolutionary devices, setting new standards in the tech industry. Gaming reach new heights, offering immersive worlds and unprecedented realism.",
+    "author_name": "Benjamin Walker",
+    "publish_date": "14 Sep 2022",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 37,
+    "title": "The Rise of Electric Cars",
+    "description": "Tesla's electric cars gain widespread popularity, challenging traditional norms in the automotive industry. Personal health monitoring, ushering in a new era of preventive care.",
+    "author_name": "Isabella Martinez",
+    "publish_date": "30 May 2022",
+    "img_url": "https://monmon120.github.io/test/fig/four.jpg",
+    "img_alt": "electric car",
+    "avatar_url": "https://monmon120.github.io/test/fig/three.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Health Tech Breakthroughs",
+    "description": "Advancements in underwater technology bring forth a new era of exploration with submersible drones reaching uncharted depths.gain widespread popularity and challenging. Yeeeah",
+    "author_name": "Daniel Harris",
+    "publish_date": "18 Feb 2022",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "health tech",
+    "avatar_url": "https://monmon120.github.io/test/fig/four.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Artificial Intelligence",
+    "description": "In a surprising move that has sent shockwaves through the tech industry, BMW, the renowned German automaker, has announced its ambitious foray into the world of smartphones.",
+    "author_name": "Ava Thompson",
+    "publish_date": "11 Jul 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "finance",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Space Tourism Takes Flight",
+    "description": "Commercial space travel becomes a reality as private companies offer trips beyond Earth's atmosphere to adventurous tourists.",
+    "author_name": "Emma White",
+    "publish_date": "14 Mar 2021",
+    "img_url": "https://monmon120.github.io/test/fig/eight.jpg",
+    "img_alt": "evolution",
+    "avatar_url": "https://monmon120.github.io/test/fig/nine.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Breaking Barriers in Robotics",
+    "description": "Advancements in robotics and artificial intelligence result in machines that can perform tasks with remarkable precision and dexterity.",
+    "author_name": "Ethan Garcia",
+    "publish_date": "21 Aug 2021",
+    "img_url": "https://monmon120.github.io/test/fig/nine.jpg",
+    "img_alt": "breaking",
+    "avatar_url": "https://monmon120.github.io/test/fig/coffee_cup1_400w.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Sustainable Fashion",
+    "description": "The fashion industry embraces sustainable practices, with eco-friendly materials and ethical production methods gaining popularity.",
+    "author_name": "Madison Hill",
+    "publish_date": "03 May 2020",
+    "img_url": "https://monmon120.github.io/test/fig/three.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Renewable Energy Revolution",
+    "description": "Wind energy takes center stage as massive wind farms contribute significantly to the global push for renewable energy.",
+    "author_name": "Christopher Lee",
+    "publish_date": "12 Nov 2020",
+    "img_url": "https://monmon120.github.io/test/fig/one.jpg",
+    "img_alt": "glimpse",
+    "avatar_url": "https://monmon120.github.io/test/fig/tangerines1_400w.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Exploring the Cosmos",
+    "description": "The Hubble Space Telescope continues to unveil breathtaking images and groundbreaking discoveries from the depths of space.",
+    "author_name": "Victoria Brown",
+    "publish_date": "28 Mar 2020",
+    "img_url": "https://monmon120.github.io/test/fig/five.jpg",
+    "img_alt": "future of work",
+    "avatar_url": "https://monmon120.github.io/test/fig/bmw_phone1_400w.jpg"
+  }
+  ],
+  "meta": {
+    "totalCount": 44,
+    "max": 10,
+    "offset": 0
+  }
+}
